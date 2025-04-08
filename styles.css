@@ -1,0 +1,25 @@
+body {
+    background-color: #578FCA;
+
+}
+
+h1 {
+  font-family: 'Comic Sans Ms', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 48px;
+  background-color: white;
+  
+
+}
+
+p {
+ font-family: fira code;
+
+}
+
+.center-audio{
+    display: block;
+    margin: 20px auto;
+
+}
