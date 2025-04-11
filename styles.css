@@ -23,3 +23,13 @@ p {
     margin: 20px auto;
 
 }
+
+@media print {
+  body * {
+    display: none;
+  }
+
+  #main-content, #main-content * {
+    display: block;
+  }
+}
